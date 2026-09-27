@@ -22,7 +22,7 @@ AI Automation & Python Developer focused on building intelligent systems, CLI to
 
 ### 📫 Connect with Me
 * Telegram: [@holly_wood4](https://t.me/holly_wood4)
-* Email: [belobrovskii1991@gmail.com](mail to: belobrovskii1991@gmail.com)
+* Email: [belobrovskii1991@gmail.com]
 * Location: Poznan, Poland
 
 ---
